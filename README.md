@@ -1,0 +1,1 @@
+# rabbitmq-proof-of-concept
